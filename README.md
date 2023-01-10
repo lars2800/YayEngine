@@ -2,5 +2,5 @@
 A python engine for multiplayer and 3d graphics
 
 
-#Multiplayer
+# Multiplayer
 make easy multiplayer!
